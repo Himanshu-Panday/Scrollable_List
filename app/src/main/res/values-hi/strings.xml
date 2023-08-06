@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="affirmation1">मैं मजबूत हूँ।</string>
+    <string name="affirmation2">मैं खुद में विश्वास करता हुँ।</string>
+    <string name="affirmation3">प्रत्येक दिन विकसित होने और खुद का बेहतर संस्करण बनने का एक नया अवसर है।</string>
+    <string name="affirmation4">मेरे जीवन की हर चुनौती सीखने का अवसर है।</string>
+    <string name="affirmation5">मेरे पास आभारी होने के लिए बहुत कुछ है।</string>
+    <string name="affirmation6">मेरे जीवन में हमेशा अच्छी चीज़ें आती रहती हैं।</string>
+    <string name="affirmation7">हर मोड़ पर नये अवसर मेरा इंतजार कर रहे हैं।</string>
+    <string name="affirmation8">मुझमें अपने दिल की सुनने का साहस है।</string>
+    <string name="affirmation9">चीजें बिल्कुल सही समय पर सामने आएंगी।</string>
+    <string name="affirmation10">मैं इस दिन आने वाले सभी क्षणों में उपस्थित रहूँगा।</string>
+</resources>
